@@ -113,6 +113,6 @@ python capture.py -r agents/my_team/my_team.py -b baselineTeam --record --record
 ### Autores
 
 Trabajo en grupo para la asignatura de Inteligencia Artificial (Universitat Pompeu Fabra).
-Responsables: \[Nombres de los autores aquí]
+Responsables: \Cosmin Bora y Maria Beili Mena Dorado
 
 Este repositorio sirve como demostración técnica del conocimiento aplicado en el diseño de agentes inteligentes.
